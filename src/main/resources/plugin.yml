@@ -1,0 +1,9 @@
+name: BerrySkywars Effects
+version: '${project.version}'
+main: ga.justreddy.wiki.berryskywarseffects.BerrySkywarsEffects
+depend: [ SkyWars ]
+authors: [ JustReddy, Kubig ]
+description: Effects addon for BerrySkywars
+commands:
+  test:
+    description: asd

@@ -1,0 +1,8 @@
+pigsmash:
+  # The ID of the kill effect, to select it for example
+  id: 10
+  # How much the kill effect will cost
+  cost: 500
+tnt:
+  id: 11
+  cost: 120
